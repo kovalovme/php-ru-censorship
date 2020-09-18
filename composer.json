@@ -1,0 +1,21 @@
+{
+    "name": "wmmax/php-ru-censorship",
+    "description": "Russian lang censorship package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Kovalov",
+            "email": "kovalovme@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "TextCensor": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">= 5.3.0"
+    }
+}
