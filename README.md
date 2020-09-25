@@ -2,7 +2,7 @@
 
 ## Getting Started
 #### Requirements
-1. PHP 5.6+
+1. PHP >= 5.3.0
 2. Composer
 
 #### Installation
